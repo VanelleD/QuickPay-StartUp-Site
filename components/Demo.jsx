@@ -11,7 +11,7 @@ const Template = () => {
             </h2>
 
             <h1 className="text-5xl text-white sm:text-4xl md:text-5xl lg:text-5xl font-extrabold mb-4 md:mb-2">
-              Track your crytpo portfolio on the best way possible
+              Track your crytpo portfolio on the best way possible.
             </h1>
 
             <p className="text-lg text-white font-normal leading-relaxed md:leading-normal">
